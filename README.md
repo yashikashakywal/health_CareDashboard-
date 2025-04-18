@@ -74,4 +74,4 @@ Yashika Shakywal
 🔗 [www.linkedin.com/in/yashika-s-584083283]
 
  📷 Dashboard Preview
-
+https://github.com/yashikashakywal/health_CareDashboard-/blob/main/dashboard-preview.png
