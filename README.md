@@ -75,3 +75,4 @@ Yashika Shakywal
 
  📷 Dashboard Preview
 https://github.com/yashikashakywal/health_CareDashboard-/blob/main/dashboard-preview.png
+https://github.com/yashikashakywal/health_CareDashboard-/blob/main/dashboard-preview2.png
